@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marco Calzada</h1>
 <h3 align="center">Software engineer from Mexico City</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mpcalzada&label=Profile%20views&color=0e75b6&style=flat" alt="mpcalzada" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mpcalzada" alt="mpcalzada" /></a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpcalzada&show_icons=true&locale=en&layout=compact" alt="mpcalzada" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpcalzada&show_icons=true&locale=en" alt="mpcalzada" /></p>
